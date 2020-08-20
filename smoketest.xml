@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Suite">
+  <test name=" Test">
+    <classes>
+      <class name="gitTest.GitTest"/>
+      
+    </classes>
+  </test>
+  <test name=" Test2">
+    <classes>
+      <class name="gitTest2.GitTest2"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
